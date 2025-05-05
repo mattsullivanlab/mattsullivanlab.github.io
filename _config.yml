@@ -1,6 +1,6 @@
 title: "Sullivan Lab @ UEA"
 description: "Microbial Pathogenesis Research Lab"
-url: "https://mattsullivanlab.github.io"  # add your GitHub Pages URL later
+url: "https://mattsullivanlab.github.io"
 baseurl: ""
 remote_theme: mmistakes/minimal-mistakes
 plugins:
@@ -22,6 +22,20 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+minimal_mistakes_skin: default
+header:
+  menu:
+    enable: true
+  social_links:
+    enable: false
+    
+header:
+  menu:
+    enable: true
+    position: right 
+    color: #fff 
+    
 
 markdown: kramdown
 kramdown:
