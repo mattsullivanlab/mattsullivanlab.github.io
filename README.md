@@ -1,3 +1,3 @@
 # Matt Sullivan's Microbiology Lab
 
-This is a Jekyll-based website using the Cayman theme for a microbiology research lab.
+This website was built through a GitHub repository using the Minimal Mistakes theme
