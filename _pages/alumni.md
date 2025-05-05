@@ -26,6 +26,7 @@ We are proud of our former lab members and wish them well for their future succe
 ### Former Masters Students
 2023/24
 - **Sadiq Ghadri** MSc Molecular Medicine
+
 2024/25
 - **Sofie Fallingen** MSc Molecular Medicine
 
