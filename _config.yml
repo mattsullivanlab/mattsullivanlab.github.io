@@ -1,6 +1,6 @@
 title: "Sullivan Lab @ UEA"
 description: "Microbial Pathogenesis Research Lab"
-url: ""  # add your GitHub Pages URL later
+url: "https://mattsullivanlab.github.io"  # add your GitHub Pages URL later
 baseurl: ""
 remote_theme: mmistakes/minimal-mistakes
 plugins:
