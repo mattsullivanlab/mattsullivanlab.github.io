@@ -10,6 +10,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
 
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
 defaults:
   - scope:
       path: ""
