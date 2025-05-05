@@ -2,7 +2,7 @@ title: "Microbiology Lab"
 description: "Exploring the Microbial Frontier"
 url: ""  # add your GitHub Pages URL later
 baseurl: ""
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
