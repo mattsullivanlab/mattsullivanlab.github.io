@@ -23,19 +23,22 @@ defaults:
       layout: single
       author_profile: true
 
+  - scope:
+      path: ""
+      type: pages
+    values:
+      permalink: /
+      layout: splash
+
 minimal_mistakes_skin: default
+
 header:
   menu:
     enable: true
+    position: right
+    color: "#fff"
   social_links:
     enable: false
-    
-header:
-  menu:
-    enable: true
-    position: right 
-    color: #fff 
-    
 
 markdown: kramdown
 kramdown:
