@@ -3,10 +3,16 @@ title: "About"
 permalink: /about/
 layout: single
 header:
-  overlay_image: /assets/images/pexels-rfstudio-3825527.jpg
+  overlay_image: /assets/images/pexels-pixabay-45239.jpg
   overlay_filter: "0.3"
-  background_position: "top center"
+  background_position: "middle center"
+excerpt: "The University of East Anglia."
 ---
+
+
+
+
+
 ## Location ##
 Our lab is based in the School of Biological Sciences at the University of East Anglia (UEA). UEA is a partner of the Norwich Research Park, a vibrant community of bioscience research institutes and biotechnology companies, including the Quadram Institute, John Innes Centre, Sainsbury's Laboratory and Earlham Institute. Norwich is the capital of Norfolk and is part of East Anglia, a historic region in the East of England that also includes Suffolk, Cambridgeshire and Essex.
 
