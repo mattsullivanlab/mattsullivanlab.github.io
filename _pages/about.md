@@ -5,7 +5,6 @@ layout: single
 header:
   overlay_image: /assets/images/UEA_2016_24604.jpeg
   overlay_filter: "0.3"
-  background_position: "middle center"
 excerpt: "The University of East Anglia, Norwich, UK"
 ---
 
