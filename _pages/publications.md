@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Publications
+title: "Publications"
+permalink: /publications/
+layout: single
 ---
 
 ## Recent Publications
