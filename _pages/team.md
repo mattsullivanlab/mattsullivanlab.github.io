@@ -5,7 +5,6 @@ layout: single
 header:
   overlay_image: /assets/images/pexels-pixabay-53214.jpeg
   overlay_filter: "0.3"
-  caption: "Team"
   background_position: middle
 ---
 
