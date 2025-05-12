@@ -5,10 +5,10 @@ layout: single
 header:
   overlay_image: /assets/images/pexels-kelly-2928232.jpg
   overlay_filter: "0.3"
-  background_position: bottom
-
+  background_position: "bottom center"
 ---
 
+  
 ## Recent Publications
 
 1. [Desai D. et al. (2025). *Multidrug resistance in group B Streptococcus causing urinary tract infection exposes an erythromycin-driven protective effect against oxidative stress*](https://doi.org/10.1099/jmm.0.001975) **Journal of Medical Microbiology**
