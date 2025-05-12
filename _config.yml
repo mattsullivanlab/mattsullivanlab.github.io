@@ -3,6 +3,10 @@ description: "Microbial Pathogenesis Research Lab"
 url: "https://mattsullivanlab.github.io"
 baseurl: ""
 remote_theme: mmistakes/minimal-mistakes
+
+include:
+  - _pages
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -23,22 +27,7 @@ defaults:
       layout: single
       author_profile: true
 
-  - scope:
-      path: ""
-      type: pages
-    values:
-      permalink: /
-      layout: splash
-
 minimal_mistakes_skin: default
-
-header:
-  menu:
-    enable: true
-    position: right
-    color: "#fff"
-  social_links:
-    enable: false
 
 markdown: kramdown
 kramdown:
