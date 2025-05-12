@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Team
+title: "Team"
+permalink: /teams/
+layout: single
 ---
 
 ## Meet the Team
