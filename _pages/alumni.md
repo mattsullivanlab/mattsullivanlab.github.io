@@ -1,9 +1,15 @@
 ---
-title: "Alumni"
+title: "Lab Alumni"
 permalink: /alumni/
 layout: single
+header:
+  overlay_image: /assets/images/UEA_2016_24616_2.jpg
+  overlay_filter: "0.3"
+excerpt: "From cultures to careers — may your curiosity always grow"
 ---
+  
 
+  
 ## Lab Alumni
 
 We are proud of our former lab members and wish them well for their future successes!
