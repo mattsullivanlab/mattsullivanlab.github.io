@@ -3,7 +3,7 @@ title: "The Sullivan Lab"
 permalink: /about/
 layout: single
 header:
-  overlay_image: /assets/images/UEA_2016_24604_2.jpeg
+  overlay_image: /assets/images/UEA_2016_24616_2.jpg
   overlay_filter: "0.3"
 excerpt: "The University of East Anglia, Norwich, UK"
 ---
