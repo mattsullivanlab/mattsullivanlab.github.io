@@ -5,7 +5,6 @@ layout: single
 header:
   overlay_image: /assets/images/pexels-kelly-2928232.jpg
   overlay_filter: "0.3"
-  caption: "Publications"
   background_position: bottom
 
 ---
