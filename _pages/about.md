@@ -1,12 +1,12 @@
 ---
-title: "About"
+title: "The Sullivan Lab"
 permalink: /about/
 layout: single
 header:
-  overlay_image: /assets/images/pexels-pixabay-45239.jpg
+  overlay_image: /assets/images/UEA_2016_24604.jpg
   overlay_filter: "0.3"
   background_position: "middle center"
-excerpt: "The University of East Anglia."
+excerpt: "The University of East Anglia, Norwich, UK"
 ---
 
 
