@@ -5,7 +5,6 @@ layout: splash
 header:
   overlay_image: /assets/images/pexels-pixabay-45239.jpg
   overlay_filter: "0.3"
-  caption: "Microbiology lab"
   background_position: top
 excerpt: "Welcome to the Sullivan Lab – exploring microbial mysteries at the University of East Anglia."
 ---
