@@ -3,7 +3,7 @@ title: "Home"
 permalink: /
 layout: splash
 header:
-  overlay_image: /assets/images/home-background.jpg
+  overlay_image: /assets/images/pexels-pixabay-45239.jpg
   overlay_filter: "0.3"
   caption: "Microbiology lab"
 excerpt: "Welcome to the Sullivan Lab – exploring microbial mysteries at the University of East Anglia."
