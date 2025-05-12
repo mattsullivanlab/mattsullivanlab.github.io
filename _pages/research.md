@@ -5,7 +5,7 @@ layout: single
 header:
   overlay_image: /assets/images/pexels-thirdman-8940524.jpg
   overlay_filter: "0.3"
-  background_position: top center
+  background_position: "top center"
 ---
    
    
