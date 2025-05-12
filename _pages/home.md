@@ -14,4 +14,8 @@ Our research focuses on how microbes interact with their environments and affect
 
 We aim to uncover the hidden stories of microbial life using cutting-edge molecular, ecological, and computational techniques.
 
-[Learn more about our research →](/research/)
+Learn more about our:
+[Research →](/research/)
+[Team →](/team/)
+[Publications →](/publications/)
+[Alumni →](/alumni/)
