@@ -14,7 +14,7 @@ Welcome to the **Sullivan Microbiology Lab** at the University of East Anglia (U
 Our research focuses on how microbes interact with their environments and affect human health. We aim to uncover the hidden stories of microbial life using cutting-edge molecular, biophysical and computational techniques.  
 
 Our research has recieved funding from numerous sources, for which we are extremely grateful:  
-### Grant funding
+### Grant funding  
 -Royal Society Research Grant  
 -Academy of Medical Sciences Springboard Award  
 -Biotechnology and Biological Sciences Research Council (BBSRC) Responsive Mode Grant  
