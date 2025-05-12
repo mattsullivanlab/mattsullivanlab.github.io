@@ -3,7 +3,7 @@ title: "Lab Alumni"
 permalink: /alumni/
 layout: single
 header:
-  overlay_image: /assets/images/UEA_2016_24616_2.jpg
+  overlay_image: /assets/images/UEA_alumni.jpg
   overlay_filter: "0.3"
 excerpt: "From cultures to careers — may your curiosity always grow"
 ---
