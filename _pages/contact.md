@@ -17,4 +17,4 @@ Norwich, Norfolk NR4 7TJ
 United Kingdom  
 📧 matthew.sullivan@uea.ac.uk  
 📧 sullivanlab@groups.uea.ac.uk  
-UEA website [https://research-portal.uea.ac.uk/en/persons/matthew-sullivan]
+[UEA website](https://research-portal.uea.ac.uk/en/persons/matthew-sullivan)
