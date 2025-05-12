@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Alumni
+title: "Alumni"
+permalink: /alumni/
+layout: single
 ---
 
 ## Lab Alumni
