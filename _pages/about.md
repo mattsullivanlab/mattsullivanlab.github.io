@@ -14,3 +14,6 @@ Our lab is based in the School of Biological Sciences at the University of East 
 
 ## Goal ##
 We study the roles of microbes in health and disease using cutting-edge techniques in gene structure and function, genomics, microscopy, and bioinformatics. Our primary focus is Group B streptococcus (*Streptococcus agalactiae*), an important pathogen of humans and animals. Our goal is to develop a better understanding of how this organism thrives in the human body and exploits metabolic processes in order to gain an advantage in a host-niche.
+
+## Funding ##
+We are deeply grateful to receive generous support from the Royal Society, the Academy of Medical Sciences (AcadMedSci), and the Biotechnology and Biological Sciences Research Council (BBSRC) for research grants to fund our lab. We also sincerely thank the Medical Research Council (MRC), BBSRC, the Saudi Arabian Cultural Bureau (SACB), and the UEA SCI Faculty for their invaluable support in funding PhD scholarships. This funding is instrumental in advancing our research and training the next generation of scientists.
