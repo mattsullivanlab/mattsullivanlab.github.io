@@ -12,9 +12,9 @@ excerpt: "From cultures to careers — may your curiosity always grow"
   
 ## Lab Alumni
 
-We are proud of our former lab members and wish them well for their future successes!
+We are proud of our previous lab members and wish them well for their future successes!
 
-### Former Undergraduate Students
+### Undergraduate Students
 - **Ellen Copeman** Lab-based research project, 2024/25
 - **Jessica Cunliffe** Lab-based research project, 2024/25
 - **Joseph Tobi Awoyinfa** Literature review research project, 2023/24
@@ -25,7 +25,7 @@ We are proud of our former lab members and wish them well for their future succe
 - **Sara Beaugeard** Data Analysis project, 2022/23
 - **Stefani Dimitriou** Lab-based research project,2022/23
 
-### Former Masters Students
+### Masters Students
 - **Sofie Fallingen** 2023/24
 - **Sadiq Ghadri** 2022/23
 
