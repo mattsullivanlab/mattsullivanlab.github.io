@@ -15,9 +15,9 @@ Our research focuses on how microbes interact with their environments and affect
 
 Our research has recieved funding from numerous sources, for which we are extremely grateful:  
 ### Grant funding  
--Royal Society Research Grant  
--Academy of Medical Sciences Springboard Award  
--Biotechnology and Biological Sciences Research Council (BBSRC) Responsive Mode Grant  
+-Royal Society Research Grant 2023-2024 
+-Academy of Medical Sciences Springboard Award  2024-2026
+-Biotechnology and Biological Sciences Research Council (BBSRC) Responsive Mode Grant  2025-2029
 
 ### PhD scholarship funding  
 -Medical Research Council MMB-DTP  
