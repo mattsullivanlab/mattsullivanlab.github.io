@@ -8,6 +8,8 @@ header:
   background_position: middle
 ---
 
+## Meet the Team
+
 ## Dr Matt Sullivan
 <div style="text-align: center;">
   <img src="/assets/images/matt.jpg" alt="Descriptive alt text" style="width: 200px; height: auto;">
